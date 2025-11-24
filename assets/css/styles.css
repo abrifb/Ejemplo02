@@ -1,0 +1,17 @@
+
+.btn-flotante{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    left: 20px;
+    padding: 10px 15px;
+    background: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn-flotante:hover {
+    background: #0056b3;
+}
